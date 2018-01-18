@@ -1,6 +1,13 @@
-# Gatsby
-A repo were will contain some studies, examples and slides about my Gatsby talk :D
+# gatsby-starter-default
+The default Gatsby starter
 
-## Useful things to tell in the talk
-- Gatsby has some starters boilerplates, which can be found here https://www.gatsbyjs.org/docs/gatsby-starters/
-They're nice to learn how things work. There some official and unofficial Gatsby boilerplates, and community can pr their own :D
+For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/)
+
+Install this starter (assuming Gatsby is installed) by running from your CLI:
+```
+gatsby new gatsby-example-site
+```
+
+## Deploy
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
